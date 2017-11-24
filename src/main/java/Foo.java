@@ -9,4 +9,8 @@ public class Foo {
     public void bar(){
         System.out.println("bar");
     }
+
+    public void baz(){
+        System.out.println("baz");
+    }
 }
