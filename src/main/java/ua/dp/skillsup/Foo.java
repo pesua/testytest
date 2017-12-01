@@ -1,3 +1,5 @@
+package ua.dp.skillsup;
+
 /**
  * @author Anton Chernetskij
  */
