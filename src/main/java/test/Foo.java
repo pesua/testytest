@@ -15,4 +15,8 @@ public class Foo {
     public void baz(){
         System.out.println("baz");
     }
+
+    public void bac(){
+        System.out.println("bac");
+    }
 }
