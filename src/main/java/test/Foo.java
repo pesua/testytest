@@ -8,10 +8,6 @@ public class Foo {
         System.out.println("Hello world");
     }
 
-    public void bar(){
-        System.out.println("bar");
-    }
-
     public void baz(){
         System.out.println("baz");
     }
