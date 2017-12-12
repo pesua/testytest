@@ -1,6 +1,4 @@
-/**
- * @author Anton Chernetskij
- */
+
 public class Foo {
     //add line on branch 2
 
