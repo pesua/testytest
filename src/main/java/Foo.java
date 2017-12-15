@@ -13,13 +13,16 @@ public class Foo {
     public void baz(){
         System.out.println("baz");
     }
+<<<<<<< HEAD
 
     public void gas(){
         System.out.println("gas");
+=======
+    
+    double result; 
+    
+    public void gas(){ 
+        System.out.println("gas"); 
+>>>>>>> ba15960fcbea291830c54f5d38597d105072c233
     }
-    public void gas(){
-        System.out.println("gas");}
-
-    public void gas(){ System.out.println("gas"); }
-
-}
+ }
