@@ -19,6 +19,8 @@ public class Foo {
         System.out.println("gas");
     }
     public void gas(){
-        System.out.println("gas");
-    }
+        System.out.println("gas");}
+
+    public void gas(){ System.out.println("gas"); }
+
 }
