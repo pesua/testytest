@@ -14,9 +14,13 @@ public class Foo {
         System.out.println("baz");
         return;
     }
+<<<<<<< HEAD
     
     public void gas(){
         System.out.println("gas");
     }
 
  }
+=======
+}
+>>>>>>> parent of 679301a... Update Foo.java
