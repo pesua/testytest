@@ -13,4 +13,9 @@ public class Foo {
     public void baz(){
         System.out.println("baz");
     }
+
+    public void gas(){
+        System.out.println("gas");
+    }
+
 }
