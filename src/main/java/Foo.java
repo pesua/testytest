@@ -10,9 +10,6 @@ public class Foo {
         System.out.println("bar");
     }
 
-    public void baz(){
-        System.out.println("baz");
-    }
 
 
 }
