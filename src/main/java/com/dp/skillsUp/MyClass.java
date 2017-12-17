@@ -2,6 +2,7 @@ package com.dp.skillsUp;
 
 public class MyClass {
     public static void main(String[] args) {
-        System.out.println("Add class with main method and run it");
+        String test = "my some method of Spring Class";
+        System.out.println(test.length());
     }
 }
