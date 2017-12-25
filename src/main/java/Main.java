@@ -1,5 +1,9 @@
 public class Main{
     public static void main(String[] args) {
-        System.out.println("Hello WORLD !!!");
+        String str = new String("hello WORLD !!!");
+        if (str.contains("WORLD")) {
+            System.out.println(str.toLowerCase());
+        }
+
     }
 }
