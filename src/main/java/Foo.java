@@ -14,5 +14,11 @@ public class Foo {
         System.out.println("baz");
     }
 
+<<<<<<< HEAD
     public void bazzz(){system.out.println("bazzz")}
+=======
+    public void money(){
+        System.out.println("grivna");
+    }
+>>>>>>> branch1
 }
