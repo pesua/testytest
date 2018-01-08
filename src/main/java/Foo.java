@@ -14,7 +14,7 @@ public class Foo {
         System.out.println("baz");
     }
 
-    public void bro() {
-        System.out.println("bro");
+    public void sister() {
+        System.out.println("sister");
     }
 }
