@@ -1,3 +1,5 @@
+package foo;
+
 /**
  * @author Anton Chernetskij
  */
