@@ -13,4 +13,8 @@ public class Foo {
     public void baz(){
         System.out.println("baz");
     }
+
+    public void baс(){
+        System.out.println("baс");
+    }
 }
