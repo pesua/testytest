@@ -6,7 +6,11 @@
 
     <groupId>GitSample</groupId>
     <artifactId>GitSample</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-<!-- this is documentation-->
+    <modules>
+        <module>homework-maven</module>
+    </modules>
+    <!-- this is documentation-->
     
 </project>
